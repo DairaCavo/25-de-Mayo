@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(179, 215, 248);
+}
+
+.titulos {
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(232, 242, 252);
+}
+
+.titulo {
+    font-size: 60px;
+}
+
+.subtitulo {
+    font-size: 25px;
+}
+
+.texto1 {
+    width: 329px;
+    height: 210px;
+    background-color: rgb(232, 242, 252);
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #7ec9fc;
+}
+
+.img1 {
+    width: 300px;
+    height: 230px;
+}
+
+.img2 {
+    width: 347px;
+    height: 230px;
+}
+
+.datos {
+    background-color: rgb(232, 242, 252);
+    font-size: 30px;
+}
+
+.img3 {
+    text-align: center;
+}
+.terceraimg { width: 400px;
+    height: 250px;}
+
+footer {
+    float: right;
+}
+.textos3 {
+    display: flex;
+    justify-content: space-between;
+}
+.contenido2 {
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.festeja, .problemas, .lideres {
+    width: 318px;
+    height: 195px;
+    background-color: rgb(232, 242, 252);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #7ec9fc;
+}
+.texto2 {
+    flex: 1;
+    margin: 10px; 
+    text-align: center;
+}
+.contenido1 {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    padding: 20px;
+}
